@@ -12,7 +12,6 @@ const weatherSummaryImage = document.querySelector('.weather-summary-img')
 const currentDateTxt = document.querySelector('.current-date-txt')
 const forecastItemsContainer = document.querySelector('.forecast-items-container')
 
-
 const apiKey = 'f4ff0970d1781d7dd785689da22b6029'
 
 searchBtn.addEventListener('click',()=>{
